@@ -1,0 +1,10 @@
+site_name: Computacion Afectiva
+site_url: https://computacionAfectiva.com
+theme:
+  name: material
+  palette: 
+    primary: indigo
+nav:
+  - Home: index.md
+  - About: about.md
+
