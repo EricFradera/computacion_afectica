@@ -1,11 +1,40 @@
 site_name: Computacion Afectiva
 
+
 theme:
   name: material
   palette: 
     primary: indigo
+  features:
+    - navigation.indexes
+    - navigation.top
+    - navigation.sections
+  
+    
 nav:
   - Home: index.md
-
+  - Bases de la computacion Afectiva: 
+    - Computacion_afectiva/index.md
+    - Computacion Cognitiva: Computacion_afectiva/Computacion cognitiva.md
+    - Computacion Cooperativa: Computacion_afectiva/Computacion cooperativa.md
+  - Teorias de las emociones:
+    - Teoria de las emociones/index.md
+    - Marcadores emocionales: Teoria de las emociones/Marcadores emocionales.md
+    - Teoria ekman: Teoria de las emociones/Teoria de Ekman.md
+    - FACS: Teoria de las emociones/FACS.md
+  - Monitoraje:
+    - Monitoraje/index.md
+    - Monitoraje Passivo: Monitoraje/Monitoraje passivo.md
+    - Monitoraje Activo: Monitoraje/Monitoraje activo.md
+    - Patrones de Monitoraje: Monitoraje/Patrones de monitoraje activo.md
+  - Patrones de diseño emocionales: 
+    - Patrones de diseño emocional/index.md
+  - Multinterfaces: 
+    - Multiinterfaz/index.md
+  - Recursos: 
+    - Recursos/index.md
+  - Ejemplos: 
+    - Ejemplos/index.md
+  
 
 
