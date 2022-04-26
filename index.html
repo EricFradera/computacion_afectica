@@ -8,7 +8,7 @@
       
       
       
-      <link rel="icon" href="assets/images/favicon.png">
+      <link rel="icon" href="assets/favicon.png">
       <meta name="generator" content="mkdocs-1.3.0, mkdocs-material-8.2.11">
     
     
@@ -21,10 +21,6 @@
       
         
         <link rel="stylesheet" href="assets/stylesheets/palette.9647289d.min.css">
-        
-          
-          
-          <meta name="theme-color" content="#4051b5">
         
       
     
@@ -50,12 +46,16 @@
   
     
     
+      
     
     
     
-    <body dir="ltr" data-md-color-scheme="" data-md-color-primary="indigo" data-md-color-accent="">
+    
+    <body dir="ltr" data-md-color-scheme="default" data-md-color-primary="pink" data-md-color-accent="pink">
   
     
+    
+      <script>var palette=__md_get("__palette");if(palette&&"object"==typeof palette.color)for(var key of Object.keys(palette.color))document.body.setAttribute("data-md-color-"+key,palette.color[key])</script>
     
     <input class="md-toggle" data-md-toggle="drawer" type="checkbox" id="__drawer" autocomplete="off">
     <input class="md-toggle" data-md-toggle="search" type="checkbox" id="__search" autocomplete="off">
@@ -79,8 +79,7 @@
   <nav class="md-header__inner md-grid" aria-label="Header">
     <a href="." title="Computacion Afectiva" class="md-header__button md-logo" aria-label="Computacion Afectiva" data-md-component="logo">
       
-  
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+  <img src="assets/logo.png" alt="logo">
 
     </a>
     <label class="md-header__button md-icon" for="__drawer">
@@ -102,6 +101,28 @@
         </div>
       </div>
     </div>
+    
+      <form class="md-header__option" data-md-component="palette">
+        
+          
+          
+          <input class="md-option" data-md-color-media="(prefers-color-scheme: light)" data-md-color-scheme="default" data-md-color-primary="pink" data-md-color-accent="pink"  aria-label="Switch to dark mode"  type="radio" name="__palette" id="__palette_1">
+          
+            <label class="md-header__button md-icon" title="Switch to dark mode" for="__palette_2" hidden>
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a4 4 0 0 0-4 4 4 4 0 0 0 4 4 4 4 0 0 0 4-4 4 4 0 0 0-4-4m0 10a6 6 0 0 1-6-6 6 6 0 0 1 6-6 6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69Z"/></svg>
+            </label>
+          
+        
+          
+          
+          <input class="md-option" data-md-color-media="(prefers-color-scheme: dark)" data-md-color-scheme="slate" data-md-color-primary="purple" data-md-color-accent="purple"  aria-label="Switch to light mode"  type="radio" name="__palette" id="__palette_2">
+          
+            <label class="md-header__button md-icon" title="Switch to light mode" for="__palette_1" hidden>
+              <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 18c-.89 0-1.74-.2-2.5-.55C11.56 16.5 13 14.42 13 12c0-2.42-1.44-4.5-3.5-5.45C10.26 6.2 11.11 6 12 6a6 6 0 0 1 6 6 6 6 0 0 1-6 6m8-9.31V4h-4.69L12 .69 8.69 4H4v4.69L.69 12 4 15.31V20h4.69L12 23.31 15.31 20H20v-4.69L23.31 12 20 8.69Z"/></svg>
+            </label>
+          
+        
+      </form>
     
     
     
@@ -165,8 +186,7 @@
   <label class="md-nav__title" for="__drawer">
     <a href="." title="Computacion Afectiva" class="md-nav__button md-logo" aria-label="Computacion Afectiva" data-md-component="logo">
       
-  
-  <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M12 8a3 3 0 0 0 3-3 3 3 0 0 0-3-3 3 3 0 0 0-3 3 3 3 0 0 0 3 3m0 3.54C9.64 9.35 6.5 8 3 8v11c3.5 0 6.64 1.35 9 3.54 2.36-2.19 5.5-3.54 9-3.54V8c-3.5 0-6.64 1.35-9 3.54Z"/></svg>
+  <img src="assets/logo.png" alt="logo">
 
     </a>
     Computacion Afectiva
@@ -694,7 +714,11 @@
 
 
 <h1 id="introduccion">Introducción</h1>
-<p>En este proyecto se ha creado una guía dirigida a todos los desarrolladores con el objetivo de introducir funcionalidades relacionadas con la computación afectiva. La memoria junto con la guía y los distintas maquetas e implementación tienen como objetivo introducir a los desarrolladores a la computación afectiva, entender conceptos básicos sobre las teorías de las emociones, que sensores funciona en que situaciones, que bases de datos y fuentes de información utilizar, así como patrones de diseño y buenas prácticas pensados para mejorar la experiencia del usuario.</p>
+<p>A mediados del siglo XIX la revolución digital cambio la sociedad. Hoy en día es incomprensible una sociedad no digitalizada. Desde la popularización de los ordenadores en el ámbito personal no ha habido ninguna gran revolución. Los ordenadores siguen funcionando sobre las mismas bases y de la misma forma. La interacción persona ordenador ha mejorado, haciendo las plataformas actuales cada vez más accesibles a más usuarios. No solo las máquinas y la experiencia de estas han evolucionado, pero los propios usuarios están adaptándose a estas interacciones.</p>
+<p>Aunque se han pasado por grandes cambios, los ordenadores siguen siendo igual de rígidos en algunos aspectos como las interfaces<em>.</em> En 1995 Rosalind W Picard empezó a explorar un modo distinto de computación, no en el ámbito de arquitectura, sino de experiencia. Para la doctora Picard, los ordenadores están incompletos para asistir las necesidades humanas, ya que carecen de emociones. </p>
+<p>Los ordenadores son sistemas lógicos, que, aunque se han vuelto mucho más accesibles en cuanto a usuario, siguen ignorando las emociones de estos. Cuántas veces se ha visto un usuario perdiendo la paciencia delante de un ordenador porque el programa no se está ejecutando, o como usuarios dan al botón de recarga de <em>YouTube</em> en busca del contenido que les apetece sin resultado. Picard opina que esto se debe a que los ordenadores son incapaces de tomar decisiones inteligentes porque sus únicas herramientas de toma de decisión son intrínsecamente lógicas, aunque los humanos son seres emocionales. Aunque las emociones son hasta cierto punto tabú por no ser herramientas lógicas, también son un proceso evolutivo que vas más allá de la lógica y para que la experiencia de usuario siga adelante necesitan integrar emociones en la propia computación, acuñando el concepto <em>Affective Computing</em>.</p>
+<p>Picard escribió este libro en 1995 publicado por el MIT con él que después fundó el MIT media lab. En el libro ya se discuten y se hacen conjeturas de los problemas y virtudes de esta tecnología. Aunque esta publicación fue pionera en 1995, era una fecha muy lejana hoy en día. Es un libro claramente influenciado por la ciencia ficción de los 80 y en algunos elementos es difícil diferenciar la ficción de la realidad. Además de esto, ya en prototipos presentados en el libro podemos ver las carencias de la tecnología de los 90, periféricos de gran tamaño, procesadores de poca potencia y tecnologías como la inteligencia artificial aún en sus primeros pasos.</p>
+<p>En los últimos años, la computación afectiva ha vuelto a estar en el punto de mira debido a la miniaturización y popularidad de <em>wearables</em>, la mejora y popularización de tecnologías de <em>machine learning,</em> incluso en dispositivos móviles. Hoy en día se ha llegado al punto al que Rosalind soñaba en 1995, donde muchas de sus predicciones ya se han cumplido y muchas otras tienen potencial de serlo. Por ello se está empezando a ver un crecimiento y un potencial muy alto de esta tecnología. Ahora se podrá observar cómo se desarrolla y si se acabara convirtiendo en un <em>gimmick</em> o de verdad se convertirá en este futuro que Rosalind nos presenta.</p>
 
               
             </article>
@@ -750,7 +774,7 @@
     <div class="md-dialog" data-md-component="dialog">
       <div class="md-dialog__inner md-typeset"></div>
     </div>
-    <script id="__config" type="application/json">{"base": ".", "features": ["navigation.indexes", "navigation.top", "navigation.sections"], "search": "assets/javascripts/workers/search.2a1c317c.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version.title": "Select version"}}</script>
+    <script id="__config" type="application/json">{"base": ".", "features": ["header.autohide", "navigation.indexes", "navigation.top", "navigation.sections"], "search": "assets/javascripts/workers/search.2a1c317c.min.js", "translations": {"clipboard.copied": "Copied to clipboard", "clipboard.copy": "Copy to clipboard", "search.config.lang": "en", "search.config.pipeline": "trimmer, stopWordFilter", "search.config.separator": "[\\s\\-]+", "search.placeholder": "Search", "search.result.more.one": "1 more on this page", "search.result.more.other": "# more on this page", "search.result.none": "No matching documents", "search.result.one": "1 matching document", "search.result.other": "# matching documents", "search.result.placeholder": "Type to start searching", "search.result.term.missing": "Missing", "select.version.title": "Select version"}}</script>
     
     
       <script src="assets/javascripts/bundle.748e2769.min.js"></script>
