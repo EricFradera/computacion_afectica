@@ -3,12 +3,29 @@ site_name: Computacion Afectiva
 
 theme:
   name: material
-  palette: 
-    primary: indigo
+  logo: assets/logo.png
+  favicon: assets/favicon.png
+  palette:
+    - media: "(prefers-color-scheme: light)" 
+      scheme: default
+      primary: pink
+      accent: pink
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - media: "(prefers-color-scheme: dark)" 
+      scheme: slate
+      primary: purple
+      accent: purple
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
   features:
+    - header.autohide
     - navigation.indexes
     - navigation.top
     - navigation.sections
+    
   
     
 nav:
@@ -38,3 +55,8 @@ nav:
   
 
 
+markdown_extensions:
+  - attr_list
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
