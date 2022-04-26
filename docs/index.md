@@ -1,11 +1,72 @@
-# Introducción
+# Computación Afectiva
 
-A mediados del siglo XIX la revolución digital cambio la sociedad. Hoy en día es incomprensible una sociedad no digitalizada. Desde la popularización de los ordenadores en el ámbito personal no ha habido ninguna gran revolución. Los ordenadores siguen funcionando sobre las mismas bases y de la misma forma. La interacción persona ordenador ha mejorado, haciendo las plataformas actuales cada vez más accesibles a más usuarios. No solo las máquinas y la experiencia de estas han evolucionado, pero los propios usuarios están adaptándose a estas interacciones.
 
-Aunque se han pasado por grandes cambios, los ordenadores siguen siendo igual de rígidos en algunos aspectos como las interfaces*.* En 1995 Rosalind W Picard empezó a explorar un modo distinto de computación, no en el ámbito de arquitectura, sino de experiencia. Para la doctora Picard, los ordenadores están incompletos para asistir las necesidades humanas, ya que carecen de emociones. 
 
-Los ordenadores son sistemas lógicos, que, aunque se han vuelto mucho más accesibles en cuanto a usuario, siguen ignorando las emociones de estos. Cuántas veces se ha visto un usuario perdiendo la paciencia delante de un ordenador porque el programa no se está ejecutando, o como usuarios dan al botón de recarga de *YouTube* en busca del contenido que les apetece sin resultado. Picard opina que esto se debe a que los ordenadores son incapaces de tomar decisiones inteligentes porque sus únicas herramientas de toma de decisión son intrínsecamente lógicas, aunque los humanos son seres emocionales. Aunque las emociones son hasta cierto punto tabú por no ser herramientas lógicas, también son un proceso evolutivo que vas más allá de la lógica y para que la experiencia de usuario siga adelante necesitan integrar emociones en la propia computación, acuñando el concepto *Affective Computing*.
+"*Computacion afectiva,  se relaciona con las emociones, surge de ellas o influye deliberadamente en ellas.*" Rosalind W. Picard
 
-Picard escribió este libro en 1995 publicado por el MIT con él que después fundó el MIT media lab. En el libro ya se discuten y se hacen conjeturas de los problemas y virtudes de esta tecnología. Aunque esta publicación fue pionera en 1995, era una fecha muy lejana hoy en día. Es un libro claramente influenciado por la ciencia ficción de los 80 y en algunos elementos es difícil diferenciar la ficción de la realidad. Además de esto, ya en prototipos presentados en el libro podemos ver las carencias de la tecnología de los 90, periféricos de gran tamaño, procesadores de poca potencia y tecnologías como la inteligencia artificial aún en sus primeros pasos.
 
-En los últimos años, la computación afectiva ha vuelto a estar en el punto de mira debido a la miniaturización y popularidad de *wearables*, la mejora y popularización de tecnologías de *machine learning,* incluso en dispositivos móviles. Hoy en día se ha llegado al punto al que Rosalind soñaba en 1995, donde muchas de sus predicciones ya se han cumplido y muchas otras tienen potencial de serlo. Por ello se está empezando a ver un crecimiento y un potencial muy alto de esta tecnología. Ahora se podrá observar cómo se desarrolla y si se acabara convirtiendo en un *gimmick* o de verdad se convertirá en este futuro que Rosalind nos presenta.
+<pre>
+
+
+</pre>
+
+---
+
+:material-head-heart-outline:{ .lg .middle } __Introdución a los conceptos de computación afectiva__
+
+   Entiende los conceptos basicos de la computacion afectiva, asi como los principales  	autores.
+
+   [:octicons-arrow-right-24: Bases de la computacion Afectiva](Computacion_afectiva/index.md)
+
+---
+
+:material-cards-heart-outline:{ .lg .middle } __Teorias emocionales__
+
+   Un breve pase por las teorias emocionales que permiten una inteligente    	implementacion de analisis de sentimientos. 
+
+   [:octicons-arrow-right-24: Introducció  a las teorias de la emocion](Teoria de las emociones/index.md)
+
+---
+
+:material-state-machine:{ .lg .middle } __Monitoraje y analisis sentimental__
+
+   Descubre el mejor sistema de reconocimiento emocional en base a los requerimientos
+
+   [:octicons-arrow-right-24: Monitoraje](Monitoraje/index.md)
+
+---
+
+:material-puzzle-outline:{ .lg .middle } __Patrones de diseño__
+
+   Una lista de patrones de siseño preparados para ser implementados ya mismo.
+
+   [:octicons-arrow-right-24: Patrones de diseño](Patrones de diseño emocional/index.md)
+
+---
+
+:material-head-heart-outline:{ .lg .middle } __Diseño de  multiples interfaces__
+
+   Explora las ventajas de proporcionar una interfaz sensible al contenido y contexto del usuario
+
+   [:octicons-arrow-right-24: Multi interfaces](Multiinterfaz/index.md)
+
+---
+
+:material-head-heart-outline:{ .lg .middle } __Recursos__
+
+   Aprende de las fuentes lideres en investigación y comercialización.
+
+   [:octicons-arrow-right-24: Recursos](Recursos/index.md)
+
+---
+
+:material-head-heart-outline:{ .lg .middle } __Ejemplos__
+
+   Explora apliaciones ya creadas.
+
+   [:octicons-arrow-right-24: Ejemplos](Ejemplos/index.md)
+
+---
+ 
+
+

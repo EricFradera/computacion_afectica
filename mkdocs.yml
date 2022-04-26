@@ -21,7 +21,6 @@ theme:
         icon: material/brightness-4
         name: Switch to light mode
   features:
-    - header.autohide
     - navigation.indexes
     - navigation.top
     - navigation.sections
@@ -46,6 +45,7 @@ nav:
     - Patrones de Monitoraje: Monitoraje/Patrones de monitoraje activo.md
   - Patrones de diseño emocionales: 
     - Patrones de diseño emocional/index.md
+    - Comunicacion basada en iconos: Patrones de diseño emocional/Comunicacion basada en iconos.md
   - Multinterfaces: 
     - Multiinterfaz/index.md
   - Recursos: 
@@ -57,6 +57,9 @@ nav:
 
 markdown_extensions:
   - attr_list
+  - attr_list
+  - md_in_html
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+      
