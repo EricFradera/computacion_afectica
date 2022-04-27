@@ -13,7 +13,7 @@
 
 :material-head-heart-outline:{ .lg .middle } __Introdución a los conceptos de computación afectiva__
 
-   Entiende los conceptos basicos de la computacion afectiva, asi como los principales  	autores.
+   Entiende los conceptos básicos de la computación afectiva, así como los principales  	autores.
 
    [:octicons-arrow-right-24: Bases de la computacion Afectiva](Computacion_afectiva/index.md)
 
@@ -21,7 +21,7 @@
 
 :material-cards-heart-outline:{ .lg .middle } __Teorias emocionales__
 
-   Un breve pase por las teorias emocionales que permiten una inteligente    	implementacion de analisis de sentimientos. 
+   Un breve pase por las teorías emocionales que permiten una inteligente    	implementación de análisis de sentimientos. 
 
    [:octicons-arrow-right-24: Introducció  a las teorias de la emocion](Teoria de las emociones/index.md)
 
@@ -37,7 +37,7 @@
 
 :material-puzzle-outline:{ .lg .middle } __Patrones de diseño__
 
-   Una lista de patrones de siseño preparados para ser implementados ya mismo.
+   Una lista de patrones de diseño preparados para ser implementados ya mismo.
 
    [:octicons-arrow-right-24: Patrones de diseño](Patrones de diseño emocional/index.md)
 

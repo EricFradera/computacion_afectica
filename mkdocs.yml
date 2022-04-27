@@ -46,6 +46,8 @@ nav:
   - Patrones de diseño emocionales: 
     - Patrones de diseño emocional/index.md
     - Comunicacion basada en iconos: Patrones de diseño emocional/Comunicacion basada en iconos.md
+    - Dificultad adaptativa: Patrones de diseño emocional/Dificultad adaptativa.md
+    - Contenido adaptativo en base al estado emocional: Patrones de diseño emocional/Contenido adaptativo en base al estado emocional.md
   - Multinterfaces: 
     - Multiinterfaz/index.md
   - Recursos: 
@@ -62,4 +64,12 @@ markdown_extensions:
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
+  - pymdownx.superfences:
+      custom_fences:
+        - name: mermaid
+          class: mermaid
+          format: !!python/name:pymdownx.superfences.fence_code_format
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
       
