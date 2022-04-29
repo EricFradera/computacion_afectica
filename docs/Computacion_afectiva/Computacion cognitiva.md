@@ -1,3 +1,5 @@
+
+
 # Computación basada en la cognición
 
 
@@ -5,6 +7,8 @@
 
 
 El punto de vista de Picard se considera cognitivo, ya que la forma en la que se detectan las emociones es de forma pasiva.
+
+Todas las emociones tienen respuestas físicas o motoras en el cuerpo, por lo que una captura precisa de estas debería permitir inferir las emociones.
 
 - El flujo de trabajo base de la computación afectiva desde punto de vista cognitivo es el siguiente:
   
@@ -33,3 +37,16 @@ graph LR
   E --> C
   
 ```
+
+
+
+## Detección en base a la distancia
+
+
+
+| Distancia relativa al usuario |                           Sensores                           |
+| :---------------------------- | :----------------------------------------------------------: |
+| A distancia                   |    Expresiones faciales, Postura, gestos, comportamientos    |
+| Cercano                       | Temperatura, Respiración, Dilatación de la pupila, conductividad de la piel, electroencefalograma, presión sanguínea |
+| Interno                       |                 Hormonas, neurotransmisores                  |
+

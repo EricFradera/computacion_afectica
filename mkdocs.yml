@@ -37,6 +37,7 @@ nav:
     - Teoria de las emociones/index.md
     - Marcadores emocionales: Teoria de las emociones/Marcadores emocionales.md
     - Teoria ekman: Teoria de las emociones/Teoria de Ekman.md
+    - Emociones primarias y secundarias: Teoria de las emociones/emociones primarias y secundarias.md
     - FACS: Teoria de las emociones/FACS.md
   - Monitoraje:
     - Monitoraje/index.md
@@ -61,6 +62,9 @@ markdown_extensions:
   - attr_list
   - attr_list
   - md_in_html
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
   - pymdownx.emoji:
       emoji_index: !!python/name:materialx.emoji.twemoji
       emoji_generator: !!python/name:materialx.emoji.to_svg
