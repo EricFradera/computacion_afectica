@@ -46,3 +46,10 @@ cada sensor puede detectar cierta información del usuario que será cartografia
 | Deteccion de postura                                   | No, pero requiere de buenas condiciones de luz i de estar en el frame. | buena, pero sencillo de engañar                              | Muy fuerte                 | tiempo real         | Costes de desarrollo o costes de contratación del servicio   |
 | Deteccion de texto                                     | Nada intrusivo                                               | mala                                                         | -                          | tiempo real         | coste de desarrollo                                          |
 
+## Monitoraje en funcion de la distancia de la captura
+
+| Distancia relativa al usuario |                           Sensores                           |
+| :---------------------------- | :----------------------------------------------------------: |
+| A distancia                   |    Expresiones faciales, Postura, gestos, comportamientos    |
+| Cercano                       | Temperatura, Respiración, Dilatación de la pupila, conductividad de la piel, electroencefalograma, presión sanguínea |
+| Interno                       |                 Hormonas, neurotransmisores                  |

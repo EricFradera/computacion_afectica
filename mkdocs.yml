@@ -38,11 +38,19 @@ nav:
     - Marcadores emocionales: Teoria de las emociones/Marcadores emocionales.md
     - Teoria ekman: Teoria de las emociones/Teoria de Ekman.md
     - Emociones primarias y secundarias: Teoria de las emociones/emociones primarias y secundarias.md
-  - Monitoraje:
-    - Monitoraje/index.md
-    - Monitoraje Passivo: Monitoraje/Monitoraje passivo.md
-    - Monitoraje Activo: Monitoraje/Monitoraje activo.md
-    - Patrones de Monitoraje: Monitoraje/Patrones de monitoraje activo.md
+
+  - Monitoraje Passivo: 
+    - Monitoraje Pasivo/index.md
+    - Ritmo cardíaco:   Monitoraje Pasivo/ritmo cardiaco.md
+    - Presión sanguínea:   Monitoraje Pasivo/Presion sanguinea.md
+    - Electrocardiograma:   Monitoraje Pasivo/electrocardiograma.md
+    - Variación rítmo Cardiaco:   Monitoraje Pasivo/variacion ritmo cardiaco.md
+    - Electromiografía:   Monitoraje Pasivo/electromiografia.md
+    - Electroencefalograma:  Monitoraje Pasivo/electroencefalograma.md
+    - EDA:  Monitoraje Pasivo/EDA.md
+  - Monitoraje Activo: 
+    - Monitoraje Activo/index.md
+    - Patrones de Monitoraje: Monitoraje Activo/Patrones de monitoraje activo.md
   - Patrones de diseño emocionales: 
     - Patrones de diseño emocional/index.md
     - Comunicacion basada en iconos: Patrones de diseño emocional/Comunicacion basada en iconos.md
