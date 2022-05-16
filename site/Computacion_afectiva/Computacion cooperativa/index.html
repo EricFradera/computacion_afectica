@@ -62,6 +62,11 @@
     <label class="md-overlay" for="__drawer"></label>
     <div data-md-component="skip">
       
+        
+        <a href="#computacion-cooperativa" class="md-skip">
+          Skip to content
+        </a>
+      
     </div>
     <div data-md-component="announce">
       
@@ -280,10 +285,43 @@
       <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
       
       
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Computacion Cooperativa
+          <span class="md-nav__icon md-icon"></span>
+        </label>
       
       <a href="./" class="md-nav__link md-nav__link--active">
         Computacion Cooperativa
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#co-experiencia" class="md-nav__link">
+    Co-experiencia
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
       
     </li>
   
@@ -316,8 +354,6 @@
         
           
             
-          
-        
           
         
           
@@ -384,20 +420,6 @@
     <li class="md-nav__item">
       <a href="../../Teoria%20de%20las%20emociones/emociones%20primarias%20y%20secundarias/" class="md-nav__link">
         Emociones primarias y secundarias
-      </a>
-    </li>
-  
-
-            
-          
-            
-              
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../Teoria%20de%20las%20emociones/FACS/" class="md-nav__link">
-        FACS
       </a>
     </li>
   
@@ -761,6 +783,23 @@
   
   
   
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#co-experiencia" class="md-nav__link">
+    Co-experiencia
+  </a>
+  
+</li>
+      
+    </ul>
   
 </nav>
                   </div>
@@ -774,9 +813,43 @@
                 
 
 
-  <h1>Computacion Cooperativa</h1>
+<h1 id="computacion-cooperativa">Computación Cooperativa</h1>
+<p>En 2007 Kirsten Boehner et al publico un articulo que plantea una prospectiva distinta al punto de vista cognitivo. Este punto de vista viene a redefinir la computacion afectiva y como se estaba desarrollando hasta ese momento.</p>
+<p>Para comprender los motivos por los que se planteo esta teoría casi antitética es importante destacar las criticas a la computacion afectiva cognitiva.</p>
+<ul>
+<li>Se considera que se ha intentado crear unas normas lógicas para el estudio de emociones intrínsecamente ilógicas. Los sistemas de información cerrados no son capaces de mostrar el rango de las emociones.</li>
+<li>Las diferencias culturales marcan tanto la percepción de las emociones como la reacción a estas. La generalización de estas lleva a sesgos de información importantes.</li>
+<li>Un usuario observado nunca mostrara su verdaderas intenciones a causa de la paradoja del observador.</li>
+<li>La detección de emociones es variable por gran cantidad de aspectos como cultura, estado fisco, mental...</li>
+<li>El usuario requiere una monitorización constante.</li>
+</ul>
+<p>Estos puntos hicieron que la propia conceptualizacion de la computacion afectiva y como se desarrollava pasara a ser erronea y por tanto debia de ser rediseñada de arriba abajo.</p>
+<h2 id="co-experiencia">Co-experiencia</h2>
+<p>La solucion al problema de la computacion cognitiva pasaba por un proceso de comparticion de las emociones de los usuarios. Los usuarios dejaban de ser analizados por sensores apra detectar sus emociones, sino que los propiso usuarios formavan parte de la experiencia emocional.</p>
+<p>Dentro de esta prespectiva el usaurio tiene una posicion central en su experiencia. El usuario trabaja de forma activa con el software para mejorar su experiencia.</p>
+<pre class="mermaid"><code>graph LR
+  A[Usuario] --&gt; B[UI];
+  C[Asistencia emocional]
+ D[Detección pasiva]
+ D--&gt;A
+ D--&gt;C
+ C[Canvios en la UI]--&gt; B
+</code></pre>
+<div class="admonition note annotate">
+<p class="admonition-title">Computación Cognitiva</p>
+<p>Bajo esta linea de diseño el usuario nunca es participe de su experiencia emocional. El sujeto siempre es pasivo a su experiencia con la UI. Si la UI falla en la deteccion nunca sera asistido, mientras que los falsos positivos pueden generar fustración al recibir reacciones inadequadas.</p>
+</div>
+<pre class="mermaid"><code>graph LR
+  A[Usuario] --&gt;|Me siento frustrado| B[UI];
+  C[Asistencia emocional]
+  B--&gt;C
+  C--&gt;|Si requiere ayuda puede acceder a los FAQs|A
 
-
+</code></pre>
+<div class="admonition note annotate">
+<p class="admonition-title">Computación Cooperativa</p>
+<p>En la experiencia el usuario siempre es participe de sus propias necesidades y se requiere de input activo.</p>
+</div>
 
               
             </article>

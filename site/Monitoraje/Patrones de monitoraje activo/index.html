@@ -62,6 +62,11 @@
     <label class="md-overlay" for="__drawer"></label>
     <div data-md-component="skip">
       
+        
+        <a href="#patrones-de-monitoraje" class="md-skip">
+          Skip to content
+        </a>
+      
     </div>
     <div data-md-component="announce">
       
@@ -314,8 +319,6 @@
         
           
         
-          
-        
       
       
         
@@ -374,20 +377,6 @@
     <li class="md-nav__item">
       <a href="../../Teoria%20de%20las%20emociones/emociones%20primarias%20y%20secundarias/" class="md-nav__link">
         Emociones primarias y secundarias
-      </a>
-    </li>
-  
-
-            
-          
-            
-              
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../Teoria%20de%20las%20emociones/FACS/" class="md-nav__link">
-        FACS
       </a>
     </li>
   
@@ -492,10 +481,43 @@
       <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
       
       
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Patrones de Monitoraje
+          <span class="md-nav__icon md-icon"></span>
+        </label>
       
       <a href="./" class="md-nav__link md-nav__link--active">
         Patrones de Monitoraje
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#taskbar-notification" class="md-nav__link">
+    TaskBar notification
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
       
     </li>
   
@@ -761,6 +783,23 @@
   
   
   
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#taskbar-notification" class="md-nav__link">
+    TaskBar notification
+  </a>
+  
+</li>
+      
+    </ul>
   
 </nav>
                   </div>
@@ -774,9 +813,15 @@
                 
 
 
-  <h1>Patrones de Monitoraje</h1>
-
-
+<h1 id="patrones-de-monitoraje">Patrones de monitoraje</h1>
+<p>Los patrones de monitorajes son estrategias con las que captar las emociones en momentos concretos. Esta guía ofrece varios patrones y sistemas para mejorar la interacción entre usuarios y interfaces.</p>
+<h2 id="taskbar-notification">TaskBar notification</h2>
+<p>Como se ha comentado la detección pasiva es muy invasiva para el usuario. En el caso de hacer uso de algún tipo de sensor del estilo del apple watch es adecuado notificar en que momentos se esta haciendo algún tipo de detección.</p>
+<p>Siguiendo la estela de otros fabricantes como Google o Samsung, al hacer uso de algún tipo de sensor este se mostrara en la barra de tareas superior con un icono verde. Mientras este sensor se hace uso aparece en la barra superior junto a una pequeña animación. Cuando pasan unos dos segundos el icono animado se substituye por icono de menor tamaño verde para no molestar al usuario.</p>
+<p>El usuario siempre esta al corriente de que aplicación esta obteniendo datos sobre el.</p>
+<p>En el caso de recogida de datos indebida el usuario podrá decidir eliminar la aplicación.</p>
+<p>El icono deberá mostrarse siempre en el dispositivo que se este usando para activar la funcionalidad. Es decir, si se activa el sensor de actividad cardiaca en el wearable se mostrara el icono en el wearable. En el caso que se active o lo active una aplicación desde un smartphone el icono se mostrara en el smartphone. El usuario <strong>siempre</strong> debe saber si esta siendo monitoreado por una aplicacion.</p>
+<p><img alt="ui_permissions" src="../assets/ui_permissions.gif" /></p>
 
               
             </article>

@@ -62,6 +62,11 @@
     <label class="md-overlay" for="__drawer"></label>
     <div data-md-component="skip">
       
+        
+        <a href="#monitoraje-pasivo" class="md-skip">
+          Skip to content
+        </a>
+      
     </div>
     <div data-md-component="announce">
       
@@ -314,8 +319,6 @@
         
           
         
-          
-        
       
       
         
@@ -374,20 +377,6 @@
     <li class="md-nav__item">
       <a href="../../Teoria%20de%20las%20emociones/emociones%20primarias%20y%20secundarias/" class="md-nav__link">
         Emociones primarias y secundarias
-      </a>
-    </li>
-  
-
-            
-          
-            
-              
-  
-  
-  
-    <li class="md-nav__item">
-      <a href="../../Teoria%20de%20las%20emociones/FACS/" class="md-nav__link">
-        FACS
       </a>
     </li>
   
@@ -464,10 +453,57 @@
       <input class="md-nav__toggle md-toggle" data-md-toggle="toc" type="checkbox" id="__toc">
       
       
+        
+      
+      
+        <label class="md-nav__link md-nav__link--active" for="__toc">
+          Monitoraje Passivo
+          <span class="md-nav__icon md-icon"></span>
+        </label>
       
       <a href="./" class="md-nav__link md-nav__link--active">
         Monitoraje Passivo
       </a>
+      
+        
+
+<nav class="md-nav md-nav--secondary" aria-label="Table of contents">
+  
+  
+  
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#excitacion-y-valencia" class="md-nav__link">
+    Excitación y valencia
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tipos-de-sensores" class="md-nav__link">
+    Tipos de sensores
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#comparacion-deteccion-emocional" class="md-nav__link">
+    Comparación detección emocional
+  </a>
+  
+</li>
+      
+    </ul>
+  
+</nav>
       
     </li>
   
@@ -761,6 +797,37 @@
   
   
   
+    
+  
+  
+    <label class="md-nav__title" for="__toc">
+      <span class="md-nav__icon md-icon"></span>
+      Table of contents
+    </label>
+    <ul class="md-nav__list" data-md-component="toc" data-md-scrollfix>
+      
+        <li class="md-nav__item">
+  <a href="#excitacion-y-valencia" class="md-nav__link">
+    Excitación y valencia
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#tipos-de-sensores" class="md-nav__link">
+    Tipos de sensores
+  </a>
+  
+</li>
+      
+        <li class="md-nav__item">
+  <a href="#comparacion-deteccion-emocional" class="md-nav__link">
+    Comparación detección emocional
+  </a>
+  
+</li>
+      
+    </ul>
   
 </nav>
                   </div>
@@ -774,9 +841,142 @@
                 
 
 
-  <h1>Monitoraje Passivo</h1>
-
-
+<h1 id="monitoraje-pasivo">Monitoraje pasivo</h1>
+<p>La obtención de datos de forma pasiva proporciona dato sin que el usuario tenga que intervenir en ningún momento de su experiencia con la aplicación. De forma dinámica el usuario se le proporciona el contenido y la información de la manera mas adecuada para el.</p>
+<p>El monitoraje de tipo pasivo requiere de sensores que perciban las respuestas física del usuario al experimentar una emoción. Si se hacen uso de sensores siempre implicara un grado de incomodidad y de violación de su privacidad. Cada aplicación deberá valorar si el uso de estos sensores podría condicionar la usabilidad de la app.</p>
+<h2 id="excitacion-y-valencia">Excitación y valencia</h2>
+<p>La detección emocional proporciona 2 variables para expresar el estado emocional</p>
+<ul>
+<li>Valencia: expresa si una experiencia emocional es Positiva o negativa.</li>
+<li>Excitación: muestra el grado de interés por la tarea realizada.</li>
+</ul>
+<p>Estas dos variables se colocan en el llamado circumplex model of affect diseñado por Russell el cual porporciona distintas emociones en funcion de la emocion que se este sintiendo.</p>
+<p><img alt="circumflex model of affect" src="../assets/circumflex%20model%20of%20affect.png" /></p>
+<h2 id="tipos-de-sensores">Tipos de sensores</h2>
+<p>cada sensor puede detectar cierta información del usuario que será cartografiado en ese modelo. La mayoría de sensores serán capaz de detectar un valencia o excitación pero no ambos. Cada aplicación debe decidir que opciones son mas adecuadas. </p>
+<table>
+<thead>
+<tr>
+<th>Sensores</th>
+<th>Estado emocional</th>
+<th>Aplicabilidad</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Ritmo cardiaco</td>
+<td>Excitación</td>
+<td>Simple i sencillo. Común en muchos wearables.</td>
+</tr>
+<tr>
+<td>Presión sanguínea</td>
+<td>Excitación</td>
+<td>barato y accesible en smartwatches. La señal contiene ruido que debe ser tratado.</td>
+</tr>
+<tr>
+<td>Electrocardiograma</td>
+<td>Excitación</td>
+<td>Requiere el uso de electrodos externos en la piel. El equipamiento es caro y requiere de personal especializado.</td>
+</tr>
+<tr>
+<td>Variación de ritmo cardiaco</td>
+<td>Valencia</td>
+<td></td>
+</tr>
+<tr>
+<td>Electromiografía</td>
+<td>Valencia</td>
+<td></td>
+</tr>
+<tr>
+<td>Electroencefalograma</td>
+<td>Valencia/excitación</td>
+<td></td>
+</tr>
+<tr>
+<td>Resonancia magnética</td>
+<td>Valencia/excitación</td>
+<td></td>
+</tr>
+<tr>
+<td>Variación de conductividad en la piel</td>
+<td>Excitación</td>
+<td></td>
+</tr>
+</tbody>
+</table>
+<p><img alt="image-20220516130033219" src="C:\Users\Eric Fradera\AppData\Roaming\Typora\typora-user-images\image-20220516130033219.png" /></p>
+<h2 id="comparacion-deteccion-emocional">Comparación detección emocional</h2>
+<table>
+<thead>
+<tr>
+<th></th>
+<th>Intrusividad</th>
+<th>Precisión</th>
+<th>Durabilidad</th>
+<th>Tiempo de detección</th>
+<th>Coste</th>
+</tr>
+</thead>
+<tbody>
+<tr>
+<td>Autoinforme (análisis personal especializad)</td>
+<td>no es intrusivo en la experiencia pero si con el posterior análisis</td>
+<td>Buena con el tratamiento correcto. Posibilidad de que los usuarios mientan en como se sienten</td>
+<td>No aplica</td>
+<td>A posteriori</td>
+<td>No implica detección con hardware, pero requiere de horas de personal experimentado</td>
+</tr>
+<tr>
+<td>Ritmo cardiaco</td>
+<td>poco intrusivo con wearables, intrusivo con sensores convencionales</td>
+<td>Buena</td>
+<td>Se puede usar a diario</td>
+<td>tiempo real</td>
+<td>muy baratos</td>
+</tr>
+<tr>
+<td>Respiracion</td>
+<td>Bastante intrusivo</td>
+<td>buena</td>
+<td>no útil para el uso diario</td>
+<td>tiempo real</td>
+<td>caro</td>
+</tr>
+<tr>
+<td>EGG(electroencefalograma), fMRI( resonancia magnética)</td>
+<td>Muy intrusivo. Limita movilidad.</td>
+<td>buena pero sensible a muchos factores</td>
+<td>frágil</td>
+<td>tiempo real</td>
+<td>muy caro</td>
+</tr>
+<tr>
+<td>Reconocimiento Facial</td>
+<td>No, pero requiere de buenas condiciones de luz i de estar en el frame.</td>
+<td>buena, pero sencillo de engañar</td>
+<td>Muy fuerte</td>
+<td>tiempo real</td>
+<td>Costes de desarrollo o costes de contratación del servicio</td>
+</tr>
+<tr>
+<td>Deteccion de postura</td>
+<td>No, pero requiere de buenas condiciones de luz i de estar en el frame.</td>
+<td>buena, pero sencillo de engañar</td>
+<td>Muy fuerte</td>
+<td>tiempo real</td>
+<td>Costes de desarrollo o costes de contratación del servicio</td>
+</tr>
+<tr>
+<td>Deteccion de texto</td>
+<td>Nada intrusivo</td>
+<td>mala</td>
+<td>-</td>
+<td>tiempo real</td>
+<td>coste de desarrollo</td>
+</tr>
+</tbody>
+</table>
 
               
             </article>
@@ -795,7 +995,7 @@
     <nav class="md-footer__inner md-grid" aria-label="Footer">
       
         
-        <a href="../" class="md-footer__link md-footer__link--prev" aria-label="Previous: Index" rel="prev">
+        <a href="../" class="md-footer__link md-footer__link--prev" aria-label="Previous: Monitoraje" rel="prev">
           <div class="md-footer__button md-icon">
             <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path d="M20 11v2H8l5.5 5.5-1.42 1.42L4.16 12l7.92-7.92L13.5 5.5 8 11h12Z"/></svg>
           </div>
@@ -804,7 +1004,7 @@
               <span class="md-footer__direction">
                 Previous
               </span>
-              Index
+              Monitoraje
             </div>
           </div>
         </a>
