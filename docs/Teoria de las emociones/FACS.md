@@ -1,1 +1,0 @@
-# FACS(Facial Coding System)

@@ -4,9 +4,20 @@
 
 Todas las emociones generan algún tipo de reacción física a la las emociones. Mientras que las emociones secundarias no tienen patrones concretos en como se experimentan si que las emociones primarias tienen marcadores bastante diferenciados.
 
+Las reacciones físicas que principalmente se pueden observar son:
+
+* Expresiones faciales.
+* Cambio en la conductividad de la piel.
+* Aumento o disminución de la presión sanguínea.
+* Actividad cerebral.
+* Ritmo cardiaco
+* Respiración.
+
 
 
 ## Miedo
+
+
 
 |                               | descripción                                                  |
 | ----------------------------- | ------------------------------------------------------------ |
@@ -18,6 +29,8 @@ Todas las emociones generan algún tipo de reacción física a la las emociones.
 
 ## Ira
 
+
+
 |                               | descripción                                         |
 | ----------------------------- | --------------------------------------------------- |
 | Expresión facial              | Cejo fruncido, parpado tensos y labios  presionados |
@@ -27,6 +40,8 @@ Todas las emociones generan algún tipo de reacción física a la las emociones.
 | Otros marcadores destacables  |                                                     |
 
 ## Asco
+
+
 
 |                               | descripción                                                  |
 | ----------------------------- | ------------------------------------------------------------ |
@@ -38,6 +53,8 @@ Todas las emociones generan algún tipo de reacción física a la las emociones.
 
 ## Tristeza
 
+
+
 |                               | descripción                                                  |
 | ----------------------------- | ------------------------------------------------------------ |
 | Expresión facial              | Cejas bajas, extremos de los labios bajos,                   |
@@ -48,6 +65,8 @@ Todas las emociones generan algún tipo de reacción física a la las emociones.
 
 ## Felicidad
 
+
+
 |                               | descripción                                                  |
 | ----------------------------- | ------------------------------------------------------------ |
 | Expresión facial              | Parpados bajos, extremos de la boca alzados  (sonrisa). Problemas con la identificación de la emoción de felicidad con  sujetos de avanzada edad. |
@@ -56,3 +75,16 @@ Todas las emociones generan algún tipo de reacción física a la las emociones.
 | Ritmo cardiaco                | Augmento de la frecuencia cardiaca                           |
 | Otros marcadores destacables  | Dilatación de los vasos sanguíneos,  disminución de la presión |
 
+
+
+## Sorpresa
+
+
+
+|                               | descripción |
+| ----------------------------- | ----------- |
+| Expresión facial              |             |
+| Actividad cerebral localizada |             |
+| Conductividad de la piel      |             |
+| Ritmo cardiaco                |             |
+| Otros marcadores destacables  |             |
