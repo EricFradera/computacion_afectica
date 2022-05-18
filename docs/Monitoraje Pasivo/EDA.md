@@ -10,10 +10,10 @@ Los sensores de actividad galvánica se deben colocar en lugares **sensibles a s
 
 | Nombre del sensor             | Descripción                                                  | Precio | Link                                                         |
 | ----------------------------- | ------------------------------------------------------------ | ------ | ------------------------------------------------------------ |
-| BITALINO Electrodermal Sensor | Compatible con Arduino                                       |        | [BITALINO](https://www.pluxbiosignals.com/collections/sensors/products/electrodermal-activity-eda-sensor?variant=40886949118143) |
-| BioSignalPlux EDA sensor      | Sensor orientado a la investigación medica. Proporciona datos tratados o sin tratar en función de las necesidades del investigador. Incluye integración con biosignalplux aquisition system. |        | [BioSignalPlux EDA sensor](https://www.pluxbiosignals.com/collections/biosignalsplux/products/electrodermal-activity-eda-sensor-1) |
-| Biopac Student Lab            | Gold standart de los sensores EDA. Versión de estudiante     |        | [Biopac Student Lab](https://www.biopac.com/product/low-voltage-stimulator-bsl-mp35/#product-tabs) |
-| EDAMove 3                     | Permite la integración fácil con bluethooth i incluye un acelerómetro. Ideal para aplicaciones que requieren de movilidad |        | [EDAMove 3](https://www.movisens.com/en/products/eda-and-activity-sensor-move-3/) |
+| BITALINO Electrodermal Sensor | Compatible con Arduino                                       | ≈60€   | [BITALINO](https://www.pluxbiosignals.com/collections/sensors/products/electrodermal-activity-eda-sensor?variant=40886949118143) |
+| BioSignalPlux EDA sensor      | Sensor orientado a la investigación medica. Proporciona datos tratados o sin tratar en función de las necesidades del investigador. Incluye integración con biosignalplux aquisition system. | ≈145€  | [BioSignalPlux EDA sensor](https://www.pluxbiosignals.com/collections/biosignalsplux/products/electrodermal-activity-eda-sensor-1) |
+| Biopac Student Lab            | Gold standart de los sensores EDA. Versión de estudiante     | ≈?     | [Biopac Student Lab](https://www.biopac.com/product/low-voltage-stimulator-bsl-mp35/#product-tabs) |
+| EDAMove 3                     | Permite la integración fácil con bluethooth i incluye un acelerómetro. Ideal para aplicaciones que requieren de movilidad | ≈?     | [EDAMove 3](https://www.movisens.com/en/products/eda-and-activity-sensor-move-3/) |
 
 ## Recomendación:
 
