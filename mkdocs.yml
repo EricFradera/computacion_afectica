@@ -38,7 +38,6 @@ nav:
     - Marcadores emocionales: Teoria de las emociones/Marcadores emocionales.md
     - Teoria ekman: Teoria de las emociones/Teoria de Ekman.md
     - Emociones primarias y secundarias: Teoria de las emociones/emociones primarias y secundarias.md
-
   - Monitoraje Passivo: 
     - Monitoraje Pasivo/index.md
     - Ritmo cardíaco:   Monitoraje Pasivo/ritmo cardiaco.md
@@ -50,11 +49,17 @@ nav:
   - Monitoraje Activo: 
     - Monitoraje Activo/index.md
     - Patrones de Monitoraje: Monitoraje Activo/Patrones de monitoraje activo.md
+    - Perfil de expression emocional: Monitoraje Activo/Perfil de expression emocional
   - Patrones de diseño emocionales: 
     - Patrones de diseño emocional/index.md
     - Comunicacion basada en iconos: Patrones de diseño emocional/Comunicacion basada en iconos.md
     - Dificultad adaptativa: Patrones de diseño emocional/Dificultad adaptativa.md
     - Contenido adaptativo en base al estado emocional: Patrones de diseño emocional/Contenido adaptativo en base al estado emocional.md
+    - Expresión de humor: Patrones de diseño emocional/Expresión de humor.md
+    - Trigger Warning: Patrones de diseño emocional/Trigger Warning.md
+    - Adaptación de asistente de voz: Patrones de diseño emocional/Adaptación de asistente de voz.md
+    - Dialogo empático: Patrones de diseño emocional/Dialogo empático.md
+    - Hub basado en emociones: Patrones de diseño emocional/Hub basado en emociones.md
   - Multinterfaces: 
     - Multiinterfaz/index.md
   - Recursos: 

@@ -7,8 +7,10 @@ La frecuencia cardiaca varia entre usuarios por muchos factores como: estado fis
 Hay que tener cuidado con intentar observar con estos sensores afecciones del corazón como arritmia a causa que en muchas ocasiones durante el proceso de eliminar el ruido de la captura estas irregularidades pueden pasar desapercibidas. En todos los casos es recomendable conocer si el propio sensor ejerce algún tipo de procesamiento a la captura.
 
 
-
-![R-R interval](assets\R-R interval.png)
+<figure markdown>
+   ![R-R interval](assets\R-R interval.png)
+  <figcaption></figcaption>
+</figure>
 
 ## Electrocardiograma
 
@@ -21,8 +23,10 @@ $$
 \operatorname{HRV} =300/(T.R-R)
 $$
 
-![electrocardiograma](assets\electrocardiograma.jpg)
-
+<figure markdown>
+   ![electrocardiograma](assets\electrocardiograma.jpg)
+  <figcaption></figcaption>
+</figure>
 
 | Nombre del sensor                           | Descripción                                                  | Precio | Link                                                         |
 | ------------------------------------------- | ------------------------------------------------------------ | ------ | ------------------------------------------------------------ |
@@ -47,8 +51,12 @@ Probablemente el sensor que actualmente se usa mas debido a su bajo coste. Por e
 
 La fotopletismografia funciona con led de color rojo o verde y a través de la luz que rebota de los vasos sanguinos se puede obtener tanto la densidad de oxigeno en sangre como el ritmo cardiaco.
 
-A causa observar los vasos sanguíneo debe ser colocado en lugares donde se puedan observar con facilidad. Normalmente esos son las muñecas o dedos, aunque también se puede colocar en el cuello.![fotopletismografia](assets\fotopletismografia.jpg)
+A causa observar los vasos sanguíneo debe ser colocado en lugares donde se puedan observar con facilidad. Normalmente esos son las muñecas o dedos, aunque también se puede colocar en el cuello.
 
+<figure markdown>
+   ![fotopletismografia](assets\fotopletismografia.jpg)
+  <figcaption></figcaption>
+</figure>
 
 | Nombre del sensor | Descripción | Precio | Link |
 | ----------------- | ----------- | ------ | ---- |

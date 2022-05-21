@@ -8,8 +8,10 @@ El electroencefalograma ha demostrado ser capaz de detectar información sobre l
 
 La mayor desventaja de los sensores EGG es la utilización fuera del laboratorio. Fuera de situaciones controladas, estos sensores introducen ruido en el monitoreo por el movimiento y actividad muscular, lo que los hace poco fiables fuera de estos entornos. 
 
-![image-20220518123113267](assets\EGG.png)
-
+<figure markdown>
+   s![image-20220518123113267](assets\EGG.png)
+  <figcaption></figcaption>
+</figure>
 
 
 | Nombre del sensor | Descripción | Precio | Link |

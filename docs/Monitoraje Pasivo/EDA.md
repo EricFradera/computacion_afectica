@@ -3,8 +3,10 @@
 También conocido como "electrodermal activity", GSR "galvanic skin response". El sensor funciona calculando las variaciones de **conductividad en la superficie de la piel**. La licitación de algunas emociones activa el sistema simpático el cual activa las glándulas sudoríparas de la piel. El sensor utiliza estas variaciones de sudoración para observar l**as variaciones en arousal**.
 
 Los sensores de actividad galvánica se deben colocar en lugares **sensibles a sudoración** como dedos. Actualmente se pude usar en las muñecas, el cual facilita su uso en gran medida. Para mejorar la detección se pude hacer uso de gel, el cual ayuda a detectar los variaciones en sudoración. Los datos obtenidos suelen ser muestras con con mucho ruido, por lo que se debe aplicar filtros que eliminen el ruido para tratar los datos.
-
-![electrodermal-activity-eda-sensor_1_540x](assets\electrodermal-activity-eda-sensor_1_540x.jpeg)
+<figure markdown>
+   ![electrodermal-activity-eda-sensor_1_540x](assets\electrodermal-activity-eda-sensor_1_540x.jpeg)
+  <figcaption>BioSignalPlux EDA sensor</figcaption>
+</figure>
 
 ## Sensores recomendados:
 

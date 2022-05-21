@@ -7,8 +7,10 @@ La teoría de Ekman se plantea de forma sencilla.  Todos los humanos, a través 
 Aunque la premisa idea es muy interesante ya que se supone que todos los humanos hacen uso de estos mecanismos la realidad es un poco mas compleja. 
 
 El la siguiente fotografía se pueden observar las 6 expresiones faciales básicas definidas. 
-
-![b68c80ff67ccf7af6f673da46edc4c7d](assets\b68c80ff67ccf7af6f673da46edc4c7d.gif)
+<figure markdown>
+   ![b68c80ff67ccf7af6f673da46edc4c7d](assets\b68c80ff67ccf7af6f673da46edc4c7d.gif)
+  <figcaption>Expresiones basicas definidas por Ekman</figcaption>
+</figure>
 
 Aunque las expresiones  faciales involucran un sistema muy complejo de músculos, en la practica hay 3 facciones de la cara que muestran la mayor parte de las emociones.
 
@@ -26,8 +28,10 @@ Las expresiones que permiten el análisis emocional del usuario son aquellas que
 Las expresiones "falsas" no son totalmente idénticas a las verdad. Algunos músculos que permiten las expresiones faciales básicas no se pueden forzar por usuarios. Aunque para la mayor parte de usuarios y sistemas de reconocimiento facial estas diferencias son imperceptibles si que se puede detectar utilizando dispositivos mas complejos.
 
 
-
-![2022-05-09 12_57_44-Incorporación de computación afectiva en diseño de interfaces de usuarios para e](assets\2022-05-09 12_57_44-Incorporación de computación afectiva en diseño de interfaces de usuarios para e.png)
+<figure markdown>
+   ![2022-05-09 12_57_44-Incorporación de computación afectiva en diseño de interfaces de usuarios para e](assets\2022-05-09 12_57_44-Incorporación de computación afectiva en diseño de interfaces de usuarios para e.png)
+  <figcaption>Camino voluntario e involuntario de la generacion de emociones</figcaption>
+</figure>
 
 Aunque las expresiones faciales son una herramienta muy potente de detección emocional claramente tiene sus problemas. Aun así cabe hacer la pregunta de si se requieren de las emociones de verdad.
 

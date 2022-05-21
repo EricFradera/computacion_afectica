@@ -11,10 +11,17 @@ La detección emocional proporciona 2 variables para expresar el estado emociona
 * Valencia: expresa si una experiencia emocional es Positiva o negativa.
 * Excitación: muestra el grado de interés por la tarea realizada.
 
+<figure markdown>
+   ![arousal i valence](assets\arousal i valence.png)
+   <figcaption></figcaption>
+</figure>
+
 Estas dos variables se colocan en el llamado circumplex model of affect diseñado por Russell el cual porporciona distintas emociones en funcion de la emocion que se este sintiendo.
 
-![circumflex model of affect](assets\circumflex model of affect.png)
-
+<figure markdown>
+   ![circumflex model of affect](assets\circumflex model of affect.png)
+   <figcaption>Circumplex model of affect by Russell</figcaption>
+</figure>
 ## Tipos de sensores
 
 cada sensor puede detectar cierta información del usuario que será cartografiado en ese modelo. La mayoría de sensores serán capaz de detectar un valencia o excitación pero no ambos. Cada aplicación debe decidir que opciones son mas adecuadas. 

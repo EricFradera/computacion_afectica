@@ -31,7 +31,9 @@
 
    Descubre el mejor sistema de reconocimiento emocional en base a los requerimientos
 
-   [:octicons-arrow-right-24: Monitoraje](Monitoraje/index.md)
+   [:octicons-arrow-right-24: Monitoraje Pasivo](Monitoraje Pasivo/index.md)
+
+   [:octicons-arrow-right-24: Monitoraje Activo](Monitoraje Activo/index.md)
 
 ---
 
