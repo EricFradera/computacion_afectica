@@ -15,7 +15,21 @@ Los sistemas mas apropiados para albergar este patrón son aquellos que tengan u
 
 ## Porque
 
+El usuario puede acceder en base a su estado emocional a las distintas aplicaciones que es mas probable usar en base a su estado emocional.
+
+Las aplicaciones que se usen dependerán en el estado y su uso. 
+
+En dispositivos pequeños esto facilitara su uso ya que el sistema será capaz de ofrecer al usuario las aplicaciones que mas probablemente requieran sin tener que navegar por menús complejos.
+
+Algunas emociones podrán estar permitir ayudar al usuario a sobrellevar esta emoción. Por ejemplo, en momento de ansiedad el hub pude proponer al usuario una playlist de música, una aplicación de relajación o quizás acceso rápido a llamadas de emergencia.
+
 ## Como
+
+A través de un menú de selección de emociones o bien de la detección pasiva el usuario será llevado a una pantalla con las aplicaciones recomendase disponibles.
+
+El escritorio puede estar personalizado visualmente para identificar la emoción actual.
+
+
 
 ![hub_apple_watch](assets\hub_apple_watch.png)
 
