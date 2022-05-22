@@ -49,3 +49,9 @@ Para reducir los sesgos de los usuarios se requiere de buscar sistemas de detecc
 
 
 ## Facial coding System (FACS)
+
+A través de la investigación de las expresiones faciales, Paul Ekman y Firesen crearon el Facial Action Coding System [38]. En este sistema, se describen Action Unites para determinar cómo los músculos faciales reaccionan a expresiones. 
+
+Estas expresiones son clasificadas por secciones y permite el fácil marcaje de las expresiones faciales de un sujeto.
+
+![FACS](assets\FACS.png)                               

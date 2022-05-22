@@ -1,4 +1,4 @@
-## Dialogo empático
+# Dialogo empático
 
 ## Que es
 

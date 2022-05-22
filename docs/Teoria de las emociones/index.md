@@ -1,4 +1,4 @@
-# Breve introducción a las teorias de la emocion
+# Breve introducción a las teorías de la emoción
 
 
 
@@ -43,7 +43,7 @@ Esta teoría supuso el mayor salto dentro del estudio de las emociones y es la b
 
 La teoria de Arnold Lazarus se basa en los appraisals o evaluaciones. 
 
-### Orientacion a objetos y evaluaciones
+### Orientación a objetos y evaluaciones
 
 Uno de los conceptos mas importantes es la direccionalidad de las emociones. Las emociones siempre van dirigidas a algo concreto, ya sea una conversación, una interfaz o un suceso. Los objetos pueden ser cualquier cosa: una acción, un evento, una interacción, persona o objeto físico. Lo mas importante es que las emociones van dirigidas a ese objeto.
 
@@ -63,9 +63,25 @@ A través de estos elementos y en base a los valores de juicio/action tendencies
 
 
 
-
-
 ## OCC
 
+El modelo OCC es un teoría emocional basado en la teoría de la evaluación.
 
+Se listan una serie de variables que permiten la diferenciación de las distintas emociones. De la misma forma que en la teoría de Arnold esta teoría se base en objetos, sucesos con los que el ser interactúa y generan una emoción.
 
+División OCC:
+
+* Valencia
+* Tipo de relacion con el objeto
+* Objetos que impactan con las normas sociales, valores de juicio.
+
+Las teorías de la valoración tienen en común un componente relacional. Estas teorías intentan crear estructuras lógicas de como los sujetos reaccionan a ciertos tipos de situaciones. Estas reacciones se ejecutan gracias a estas variables y valoraciones que se proponen. 
+
+Las variables son los valores de juicio de los que está el modelo capacitado a reconocer y generar una valoración emocional. Las emociones a las que lleva esta variable pueden ser desde un estado emocional concreto a un rango de emociones.
+
+El alcance de las emociones queda ampliamente limitado y carece de capacidad de reconocer ciertas emociones “no primarias” como podría ser la culpa, la vergüenza… Es una limitación de la teoría que se está intentando solventar, pero que hace que las teorías actuales sean insuficientes para dibujar la experiencia compleja de la psique humana.
+
+<figure markdown>
+  ![original_OCC](assets\original_OCC.png)
+  <figcaption>Esquema original OCC</figcaption>
+</figure>
