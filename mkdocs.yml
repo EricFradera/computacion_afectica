@@ -49,15 +49,15 @@ nav:
   - Monitoraje Activo: 
     - Monitoraje Activo/index.md
     - Patrones de Monitoraje: Monitoraje Activo/Patrones de monitoraje activo.md
-    - Perfil de expression emocional: Monitoraje Activo/Perfil de expression emocional
+    - Perfil de expression emocional: Monitoraje Activo/Perfil de expression emocional.md
   - Patrones de diseño emocionales: 
     - Patrones de diseño emocional/index.md
     - Comunicacion basada en iconos: Patrones de diseño emocional/Comunicacion basada en iconos.md
-    - Dificultad adaptativa: Patrones de diseño emocional/Dificultad adaptativa.md
+    - Dificultad adaptativa: Patrones de diseño emocional/Dificultad adaptativa_new.md
     - Contenido adaptativo en base al estado emocional: Patrones de diseño emocional/Contenido adaptativo en base al estado emocional.md
     - Expresión de humor: Patrones de diseño emocional/Expresión de humor.md
     - Trigger Warning: Patrones de diseño emocional/Trigger Warning.md
-    - Adaptación de asistente de voz: Patrones de diseño emocional/Adaptación de asistente de voz.md
+    # - Adaptación de asistente de voz: Patrones de diseño emocional/Adaptación de asistente de voz.md
     - Dialogo empático: Patrones de diseño emocional/Dialogo empático.md
     - Hub basado en emociones: Patrones de diseño emocional/Hub basado en emociones.md
   - Multinterfaces: 

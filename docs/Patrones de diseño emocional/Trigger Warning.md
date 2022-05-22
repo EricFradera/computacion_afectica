@@ -16,9 +16,7 @@ Con el objetivo de mejorar la calidad de vida de estos usuarios y hacer tan acce
 
 ## Como
 
-
-
-Los avisos contenido se pueden menciona al inicio de la reproducción del contenido, mencionando que elemento puede suponer traumatico. Una vez proporcionado el aviso se debe permitir continuar o volver atras.
+Los avisos contenido se pueden menciona al inicio de la reproducción del contenido, mencionando que elemento puede suponer traumático. Una vez proporcionado el aviso se debe permitir continuar o volver atrás.
 
 ![aviso de contenido ejemplo](assets\aviso de contenido ejemplo.png)
 
@@ -32,7 +30,7 @@ Finalmente se puede proporcionar un aviso antes de acceder a una nueva pagina.
 
 ![aviso de contenido ejemplo_3](assets\aviso de contenido ejemplo_3.png)
 
-## Lista de avisos de contenido frequente
+## Lista de avisos de contenido frecuente
 
 [Does the dog die](https://www.doesthedogdie.com)
 
