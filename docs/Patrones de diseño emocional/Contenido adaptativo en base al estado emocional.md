@@ -53,11 +53,11 @@ Mientras que este patrón permite un mayor grado de interacción entre el usuari
 
 ## Ejemplos
 
-Bandersnatch es una pelicula interactiva que ofrece cierta personalizacion con el usuario a traves de las decisiones que este toma por algunos personajes de la historia. 
+Bandersnatch es una película interactiva que ofrece cierta personalización con el usuario a través de las decisiones que este toma por algunos personajes de la historia. 
 
 ![bandersnatch](assets\bandersnatch.jpg)
 
-La pelicula esta dividida en decisiones en su mayoria de tipo satelite, con algunas verdaderamente relevantes que ofrecen cambios significativos en la trama.
+La película está dividida en decisiones en su mayoría de tipo satélite, con algunas verdaderamente relevantes que ofrecen cambios significativos en la trama.
 
 ![bandersnatch diagram](assets\bandersnatch diagram.webp)
 

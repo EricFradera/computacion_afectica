@@ -63,6 +63,10 @@ nav:
     - Hub basado en emociones: Patrones de diseño emocional/Hub basado en emociones.md
   - Multinterfaces: 
     - Multiinterfaz/index.md
+  - Emotive Chat:
+    - emoChat/index.md
+    - Características de la app: emoChat/appOverview.md
+    - Estructura de la aplicación: emoChat/appStructure.md
   - Recursos: 
     - Recursos/index.md
   - Ejemplos: 
