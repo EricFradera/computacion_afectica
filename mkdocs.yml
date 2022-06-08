@@ -49,8 +49,9 @@ nav:
     - Deteccion basada en texto: Monitoraje Pasivo/Deteccion basade en texto.md
   - Monitoraje Activo: 
     - Monitoraje Activo/index.md
-    - Patrones de Monitoraje: Monitoraje Activo/Patrones de monitoraje activo.md
     - Perfil de expression emocional: Monitoraje Activo/Perfil de expression emocional.md
+  - Multi Interfaz:
+    - multiInterfaz/index.md
   - Patrones de diseño emocionales: 
     - Patrones de diseño emocional/index.md
     - Comunicacion basada en iconos: Patrones de diseño emocional/Comunicacion basada en iconos.md
@@ -61,12 +62,16 @@ nav:
     # - Adaptación de asistente de voz: Patrones de diseño emocional/Adaptación de asistente de voz.md
     - Dialogo empático: Patrones de diseño emocional/Dialogo empático.md
     - Hub basado en emociones: Patrones de diseño emocional/Hub basado en emociones.md
-  - Multinterfaces: 
-    - Multiinterfaz/index.md
+  - Bases de datos multimodales:
+    - bases de datos multimodales/index.md
   - Emotive Chat:
     - emoChat/index.md
     - Características de la app: emoChat/appOverview.md
     - Estructura de la aplicación: emoChat/appStructure.md
+  - Privacidad:
+    - privacidad/index.md
+  - Ética:
+    - etica/index.md
   - Recursos: 
     - Recursos/index.md
   - Ejemplos: 

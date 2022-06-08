@@ -30,12 +30,11 @@ $$
 
 | Nombre del sensor                           | Descripción                                                  | Precio | Link                                                         |
 | ------------------------------------------- | ------------------------------------------------------------ | ------ | ------------------------------------------------------------ |
-| BIOSIGNALPLUX ECG sensor                    | captura bajo en ruido. La suite de el sensor es completa y tiene integración con otros sensores de la misma marca. | ≈145€  | [BIOSIGNALPLUX ECG](https://www.pluxbiosignals.com/products/electrocardiography-ecg-sensor-1?variant=40878955200703) |
-| SEEQ™ sensor                                |                                                              |        |                                                              |
-| PCARD                                       |                                                              |        |                                                              |
-| ZIO® XT Patch by iRhythm Technologies, Inc. |                                                              |        |                                                              |
-| wearable biosensor by Philips               |                                                              |        |                                                              |
-| Arduino ver                                 |                                                              |        | https://how2electronics.com/ecg-monitoring-with-ad8232-ecg-sensor-arduino/ |
+| BIOSIGNALPLUX ECG sensor                    | Captura bajo en ruido. La suite de el sensor es completa y tiene integración con otros sensores de la misma marca. | ≈145€  | [BIOSIGNALPLUX ECG](https://www.pluxbiosignals.com/products/electrocardiography-ecg-sensor-1?variant=40878955200703) |
+| SEEQ™ sensor                                | Portable, batera de larga duración. Sensor dirigido a la deteccion de enfermedades como tacquicardia. Alta precision. | N/A    | DOI: [10.1109/EMBC.2015.7318785](https://doi.org/10.1109/embc.2015.7318785) |
+| ZIO® XT Patch by iRhythm Technologies, Inc. | Se aplica como un parche en el pecho del paciente. Es muy poco invasivo. Mediacal grade. Monitoreo continuo durante 14 dias. | ≈361€  |                                                              |
+| wearable biosensor by Philips BX100         | Integración con distintos servicios medicas para sincronización de datos de los pacientes | N/A    |                                                              |
+| Arduino ver                                 | Peor detección y requiere de una integración propia. Perfecto para pequeños proyectos y prototipos. | 20€    | https://how2electronics.com/ecg-monitoring-with-ad8232-ecg-sensor-arduino/ |
 
 **Study:**
 

@@ -7,7 +7,6 @@ La constante evolución de la computación afectiva en los últimos hace que se 
 Esta es una recopilación de algunos de ellos
 
 <pre>
-Books: :material-bookshelf:{ .lg .middle }
 
 </pre>
 
