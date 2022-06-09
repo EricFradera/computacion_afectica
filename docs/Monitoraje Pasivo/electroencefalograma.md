@@ -14,9 +14,7 @@ La mayor desventaja de los sensores EGG es la utilización fuera del laboratorio
 </figure>
 
 
-| Nombre del sensor | Descripción | Precio | Link |
-| ----------------- | ----------- | ------ | ---- |
-| EPOC              |             |        |      |
-|                   |             |        |      |
-|                   |             |        |      |
-|                   |             |        |      |
+| Nombre del sensor | Descripción                                                  | Precio | Link                                                  |
+| ----------------- | ------------------------------------------------------------ | ------ | ----------------------------------------------------- |
+| emotive EPOC      | estándar a nivel comercial. Tiene un ecosistema de productos y APIs que permiten la fácil implementación en unity y otros programs. | 800€   | https://www.emotiv.com/epoc-x/                        |
+| OpenBCI           | EGG de código abierto. Toda la documentación es abierta, aunque las placas base compatibles no lo son. El headset puede ser imprimido en impresoras 3d. Los sensores son de gran calidad. | 400€   | https://shop.openbci.com/products/ultracortex-mark-iv |

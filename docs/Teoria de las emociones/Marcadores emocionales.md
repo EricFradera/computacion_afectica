@@ -19,7 +19,7 @@ Las reacciones físicas que principalmente se pueden observar son:
 
 
 
-|                               | descripción                                                  |
+| Señal                         | descripción                                                  |
 | ----------------------------- | ------------------------------------------------------------ |
 | Expresión facial              | ojos muy abiertos, cejas levantadas y  juntas, parpados tensos y labios estirados. |
 | Actividad cerebral localizada | lóbulo prefrontal                                            |
@@ -31,7 +31,7 @@ Las reacciones físicas que principalmente se pueden observar son:
 
 
 
-|                               | descripción                                         |
+| Señal                         | descripción                                         |
 | ----------------------------- | --------------------------------------------------- |
 | Expresión facial              | Cejo fruncido, parpado tensos y labios  presionados |
 | Actividad cerebral localizada | córtex prefrontal                                   |
@@ -43,7 +43,7 @@ Las reacciones físicas que principalmente se pueden observar son:
 
 
 
-|                               | descripción                                                  |
+| Señal                         | descripción                                                  |
 | ----------------------------- | ------------------------------------------------------------ |
 | Expresión facial              | Nariz arrugada y labio superior elevado                      |
 | Actividad cerebral localizada | ínsula                                                       |
@@ -55,7 +55,7 @@ Las reacciones físicas que principalmente se pueden observar son:
 
 
 
-|                               | descripción                                                  |
+| Señal                         | descripción                                                  |
 | ----------------------------- | ------------------------------------------------------------ |
 | Expresión facial              | Cejas bajas, extremos de los labios bajos,                   |
 | Actividad cerebral localizada | ínsula anterior, prefrontal                                  |
@@ -67,7 +67,7 @@ Las reacciones físicas que principalmente se pueden observar son:
 
 
 
-|                               | descripción                                                  |
+| Señal                         | descripción                                                  |
 | ----------------------------- | ------------------------------------------------------------ |
 | Expresión facial              | Parpados bajos, extremos de la boca alzados  (sonrisa). Problemas con la identificación de la emoción de felicidad con  sujetos de avanzada edad. |
 | Actividad cerebral localizada | Prefrontal medio,                                            |
@@ -79,12 +79,9 @@ Las reacciones físicas que principalmente se pueden observar son:
 
 ## Sorpresa
 
-
-
-|                               | descripción |
-| ----------------------------- | ----------- |
-| Expresión facial              |             |
-| Actividad cerebral localizada |             |
-| Conductividad de la piel      |             |
-| Ritmo cardiaco                |             |
-| Otros marcadores destacables  |             |
+| Señal                         | descripción                                                  |
+| ----------------------------- | ------------------------------------------------------------ |
+| Expresión facial              | Cejas altas, ojos muy abiertos. La boca suele  también estar bien abierta durante la emoción de sorpresa. |
+| Actividad cerebral localizada | Cingulate cortez                                             |
+| Conductividad de la piel      | Augmento de la conductividas (arousal)                       |
+| Ritmo cardiaco                | Augmento de la frecuencia cardiaca                           |

@@ -49,7 +49,7 @@
 
    Explora las ventajas de proporcionar una interfaz sensible al contenido y contexto del usuario
 
-   [:octicons-arrow-right-24: Multi interfaces](Multiinterfaz/index.md)
+   [:octicons-arrow-right-24: Multi interfaces](multiInterfaz/index.md)
 
 ---
 
