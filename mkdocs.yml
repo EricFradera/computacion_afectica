@@ -1,5 +1,6 @@
 site_name: Computación Afectiva
-
+site_url: ""
+use_directory_urls: False
 
 theme:
   name: material
@@ -76,7 +77,7 @@ nav:
     - Recursos/index.md
   - Ejemplos: 
     - Ejemplos/index.md
-  
+
 
 
 markdown_extensions:
