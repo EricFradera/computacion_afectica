@@ -54,7 +54,7 @@ nav:
   - Monitoraje Activo: 
     - Monitoraje Activo/index.md
     - Perfil de expression emocional: Monitoraje Activo/Perfil de expression emocional.md
-  - Multi Interfaz: multiInterfaz/index.md
+    - Captura de usuario: Monitoraje Activo/captura de usuario.md
   - Patrones de diseño emocionales: 
     - Patrones de diseño emocional/index.md
     - Comunicacion basada en iconos: Patrones de diseño emocional/Comunicacion basada en iconos.md
@@ -64,6 +64,7 @@ nav:
     - Trigger Warning: Patrones de diseño emocional/Trigger Warning.md
     - Dialogo empático: Patrones de diseño emocional/Dialogo empático.md
     - Hub basado en emociones: Patrones de diseño emocional/Hub basado en emociones.md
+    - Multi Interfaz: multiInterfaz/index.md
   - Bases de datos multimodales:
     - bases de datos multimodales/index.md
     - bases de datos multimodales/emotionML.md

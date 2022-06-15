@@ -24,7 +24,7 @@ Que esto sea así es comprensible dado la sensibilidad que implica el diseño de
 
    Adapta la dificultad al usuario con el objetivo de mejorar el rendimiendo y aprendizaje
 
-   [:octicons-arrow-right-24: Dificultad adaptativa](Dificultad adaptativa.md)
+   [:octicons-arrow-right-24: Dificultad adaptativa](Dificultad adaptativa_new.md)
 
 ---
 

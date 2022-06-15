@@ -22,7 +22,7 @@ Los sistemas cognitivistas por su propia naturaleza tienen ciertas carencias que
 
 Considerando los puntos anteriores todos los desarrolladores deben tener en consideración si la tecnología aporta valor a su aplicación y si no tienen otras formas más sencillas de obtener esta información. Los costes asociados a la computación afectiva son altos a causa de requerir de material especializado, profesionales con conocimiento sobre psicología sociología etc. Dentro del mercado actual los mayores desarrolladores de computación afectiva se dedican a sistemas de seguridad y militar, sistemas médicos, automovilismo, marketing o videojuegos. En ninguno de los casos son producto de masas y el segmento de mercado interesado es pequeño. 
 
-![2022-06-15 19_01_34-memoria final.docx - Word](C:\Users\Eric Fradera\Desktop\DevKit\computacio_afectiva\docs\Monitoraje Activo\assets\2022-06-15 19_01_34-memoria final.docx - Word.png)
+![2022-06-15 19_01_34-memoria final.docx - Word](assets\2022-06-15 19_01_34-memoria final.docx - Word.png)
 
 
 
