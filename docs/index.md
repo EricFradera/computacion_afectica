@@ -49,7 +49,7 @@
 
    Explora las ventajas de proporcionar una interfaz sensible al contenido y contexto del usuario
 
-   [:octicons-arrow-right-24: Multi interfaces](multiInterfaz/index.md)
+   [:octicons-arrow-right-24: Multi interfaces](Patrones de diseño emocional/interfaz multiple.md)
 
 ---
 
