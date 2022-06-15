@@ -2,21 +2,19 @@
 
 
 
+Para poder detectar emociones de forma adecuada a través de la computación afectiva lo más importante es la información. Como se ha visto anteriormente, cada sensor es capaz de proporcionar ciertas medidas de los marcadores afectivos de un usuario. El objetivo final es tener información lo más completa posible, teniendo en cuenta que las emociones están afectadas por una gran multitud de factores como edad, género o cultura. Obtener el estado emocional a través de un solo canal de información proporciona información poco concreta.
 
+La solución que se ha dado a esta situación son las bases de datos multimodales. Bases de datos que contienen representaciones de reacciones afectivas a través de distintos canales. Estas bases datos ofrecen una mayor riqueza de datos al contrastar emociones a través de distintos canales.
 
-Para poder detectar emociones de forma adecuada a través de la computación afectiva lo más importante es la información. Como se ha visto anteriormente, cada sensor o sistema es capaz de proporcionar ciertas medidas de los marcadores afectivos de un usuario. El objetivo final es tener información lo más completa posible, teniendo en cuenta que las emociones están afectadas por una gran multitud de factores como edad, género o cultura. Obtener el estado emocional a través de un solo canal de información proporciona información poco concreta.
-
-La solución que se ha dado a esta situación las bases de datos multimodales. Bases de datos que contienen representaciones de reacciones afectivas a través de distintas metodologías. Estas bases datos ofrecen una mayor riqueza de los datos al contrastar emociones a través de distintos canales.
-
-Los desarrolladores e investigadores tienen que tomar la decisión de hacer uso de las bases de datos que ya se han creado o crear las suyas propias. Cada investigación o producto tienen requerimientos propios que afectarán a que tipo de datos tendrán acceso o que sensores tendrán la capacidad de utilizar. En este punto, los desarrolladores necesitan tomar la decisión en función de que sensores tengan acceso, si las bases de datos disponibles ofrecen la diversidad demográfica que requieren o si tamaño de la muestra es suficiente [32], [35], [44].
+Los desarrolladores e investigadores deben tomar la decisión de hacer uso de bases de datos que ya se han creado o crear las suyas propias. Cada investigación o producto tienen requerimientos propios que afecta a qué tipo de datos se tiene acceso o de que sensores disponen. En este punto, los desarrolladores necesitan tomar la decisión en función de que sensores tienen, si las bases de datos disponibles ofrecen la diversidad demográfica que requieren o si tamaño de la muestra es suficiente.
 
 Independientemente de si se tiene acceso a una base de datos que encaja o no con el proyecto o se requiere de producir una propia, hay ciertos factores que tener en cuenta.
 
+
+
 ## Disponibilidad
 
-​                               
 
-Fig. 23 evolución del uso de bases de datos multimodales. A: Audio, T: Text, V: Video[32]
 
 Aunque la disponibilidad de las bases de datos multimodales está en crecimiento, aún se muestran escasos. Las bases de tos más populares son de tipo visual y sonoro. Otros tipos de bases de datos son mucho menos comunes. 
 
@@ -30,28 +28,34 @@ La publicación de los datos podría aumentar aún más la paradoja del observad
 
 Por otro lado, los instrumentos raramente estarán integrados en un mismo sistema, por lo que tendrán que ser sincronizados. El uso de marcadores de tiempo es la técnica más común de sincronización, aunque habrá que adaptar la escala de tiempo.
 
+
+
 ## Calidad de la muestra
 
-Un segundo factor en la elección de la información es la calidad y cantidad de los datos. En casos en las que los investigadores requieran de hacer una base de datos propia habrá que tener en cuenta el volumen de datos requeridos y que, estos tendrán que ser analizado y etiquetado por personal cualificado y variado.
 
-La calidad de los datos dependerá de las necesidades de la investigación. Algunos de los factores que afectaran a la calidad de estos datos será desde en que medio se han obtenido los datos y si se han tratado de forma adecuada eliminando ruido.
 
-Una vez más también será un factor que valorar la diversidad étnica y de género de los etiquetadores de estas emociones pera obtener un alto estándar de calidad.
+Un segundo factor en la elección de la información es la calidad y cantidad de los datos. En casos en los que los investigadores requieren de una base de datos propia hay que tener en cuenta el volumen de datos requerido y que estos tienen que ser marcados por personal cualificado y variado.
+
+La calidad de los datos depende de las necesidades de la investigación. Algunos de los factores que afectan a la calidad de los datos es en qué medio se han obtenido y si se han tratado de forma adecuada eliminando. Por ejemplo, los sensores EDA normalmente deben ser tratados para eliminar el ruido de la captura.
+
+Una vez más hay que valorar la diversidad étnica y de género de los etiquetadores de estas emociones para obtener un alto estándar de calidad.
+
+
 
 
 ## Bases de datos visual y sonora
 
-Las bases de datos con contenido visual son las más comunes debido a la popularización de las redes sociales y la generación de contenido por los usuarios. Este tipo de bases de datos se suelen crear a través de dos vías.
+Las bases de datos con contenido visual son las más comunes como resultado de la popularización de las redes sociales y la generación de contenido. Este tipo de bases de datos se suelen crear a través de dos vías.
 
-\1.   Videos naturales: se selecciona videos extraídos de plataformas de video como YouTube, Vimeo, Facebook y se marcan las emociones.
+1. Videos naturales: se seleccionan videos extraídos de plataformas de video como YouTube, Vimeo, Facebook y se marcan las emociones.
 
-\2.   Grabaciones de actores: se proporciona a actores un guion con claras guías de que emoción tienen que simular en cada momento. Estas bases de datos sufren de acciones que no son propias de las emociones que están actuando. Los actores simulan las acciones, no sienten la emoción, por lo que la información suele ser poco precisa.
+1. Grabaciones de actores: se proporciona a actores guías de que emoción tienen que representar en cada momento. Estas bases de datos sufren de acciones que no son propias de las emociones que están actuando. Los actores simulan las expresiones de las emociones que deben representar, pero normalmente no es genuina, por consiguiente, puede ser una representación poco reconocible.
 
-Aunque existen gran multitud de bases de datos multimodales, cada una de estas siguen sistemas de marcaje distinto. Normalmente, se siguen sistemas lineares como el modelo de Russel (Valencia y Excitación) o bien las emociones básicas de Ekman (felicidad, ira, asco…). Aunque estos dos modelos son los más comunes, hay otros basados en la rueda de emociones de Plutchik o Fontaine que siguen un modelo de 4 dimensiones (Valencia, potencia, excitación, predictibilidad). 
+Aunque existen gran multitud de bases de datos multimodales, cada una de estas siguen sistemas de marcaje distinto. Normalmente, se siguen sistemas lineales como el modelo de Russel (valencia y excitación) o bien las emociones básicas de Ekman (felicidad, ira, asco…). Aunque estos dos modelos son los más comunes, hay otros basados en la rueda de emociones de Plutchik o Fontaine que siguen un modelo de 4 dimensiones (valencia, potencia, excitación, predictibilidad). 
 
-Los distintos datasets siguen los requerimientos de las teorías emocionales en las que se basan. Mientras que algunas teorías se pueden llegar a traducir de una a la otra, o investigadores deben hacer una investigación previa de marcaje es óptimo para elegir la base de datos.
+Los distintos datasets siguen los requerimientos de las teorías emocionales en las que se basan. Cada investigación sigue el modelo que encaja mejor con su caso de uso. Aunque se puede traducir entre modelos es preferible usar una base de datos basada en la misma teoría de las emociones.
 
-Algunos ejemplos de bases de datos multimodales:
+
 
 | Nombre           | Año publicación | Autor       |                                                              |
 | ---------------- | --------------- | ----------- | ------------------------------------------------------------ |

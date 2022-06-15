@@ -6,42 +6,7 @@ La aplicación esta desarrollada utilizando Flutter ver 2.10.  Flutter es un fra
 
 Los datos han sido gradados en FireBase a causa de la buena integración que tiene flutter con Firebase. Firebase es una base de datos no relacional que ha permitido modificar el tratado de datos hasta el final del desarrollo. Esto ha permitido muy buena flexibilidad durante el desarrollo. 
 
-## Estructura de la aplicación:
 
-Esta es la estructura simplificada de la app. Para mas detalles acceder al repositorio.
-
-``` mermaid
-classDiagram
-  UserController <|--|> FirebaseController
-  UserExpressionThemeController <|--|> FirebaseController
-  expressionPageController <|-- UserExpressionThemeController
-  AnalyticsController <|--|> FirebaseController
-  LogIn <|-- UserController
-  Chat <|-- UserController
-  ExpressionPage <|-- expressionPageController
-  Analytics <|-- AnalyticsController
-  FirebaseController <|--|> cloud
-  
-  class HowItWorks{
-  
-  }
-
-  class UserController{
-
-  }
-  class UserExpressionThemeController{
-
-  }
-  class FirebaseController {
-  
-  }
-  class AnalyticsController{
-  
-  }
-  class Log In{
- 
-  }
-```
 ## Diagrama de sequencia caracteristicas
 
 
@@ -64,8 +29,8 @@ sequenceDiagram
 
 ``` mermaid
 sequenceDiagram
-  ProfilePage->>UserController: changeMood(int emotion)
-  UserController ->> FireBaseController: updadeMood()
+  ProfilePage->>FireBaseController:: changeMood(int emotion)
+
   ProfilePage ->> ExpressionThemeController: changeTheme(int mood)
 
   ExpressionThemeController->> AppTheme: obx(AppTheme)

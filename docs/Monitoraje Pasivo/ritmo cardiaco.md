@@ -23,10 +23,8 @@ $$
 \operatorname{HRV} =300/(T.R-R)
 $$
 
-<figure markdown>
-   ![electrocardiograma](assets\electrocardiograma.jpg)
-  <figcaption></figcaption>
-</figure>
+![2022-06-15 19_05_04-memoria final.docx - Word](assets\2022-06-15 19_05_04-memoria final.docx - Word.png)
+
 
 | Nombre del sensor                           | Descripción                                                  | Precio | Link                                                         |
 | ------------------------------------------- | ------------------------------------------------------------ | ------ | ------------------------------------------------------------ |
@@ -46,20 +44,11 @@ $$
 
 ## Fotopletismografia
 
-Probablemente el sensor que actualmente se usa mas debido a su bajo coste. Por este motivo prácticamente todos los wearables lo incorporan. Aunque esta disponible en gran cantidad de dispositivos pocos ofrecen la información en tiempo real para tratarla en la aplicación.
-
-La fotopletismografia funciona con led de color rojo o verde y a través de la luz que rebota de los vasos sanguinos se puede obtener tanto la densidad de oxigeno en sangre como el ritmo cardiaco.
-
-A causa observar los vasos sanguíneo debe ser colocado en lugares donde se puedan observar con facilidad. Normalmente esos son las muñecas o dedos, aunque también se puede colocar en el cuello.
+La fotopletismografía tiene la capacidad de detectar el volumen en sangre de la zona superficial de la piel. El funcionamiento del fotopletismógrafo no requiere de gel ni electrodos, sino que se coloca en zonas con alta densidad de capilares sanguíneos con una pinza. El sistema funciona a través de la emisión de luz verde o roja en la piel, esta señal es captada al rebotar con los capilares obteniendo la onda reflectante. Esta onda es convertida para obtener los cambios en la constricción de los capilares con los latidos. La onda de reflectante también se puede usar para obtener la densidad de oxígeno en sangre.
 
 <figure markdown>
    ![fotopletismografia](assets\fotopletismografia.jpg)
   <figcaption></figcaption>
 </figure>
+La fotopetismografía es actualmente uno de los sensores más utilizados en *wearables* a causa de un coste bajo y su portabilidad. Aun así, con excepción de algunos *wearables* especializados, la captura de datos está limitada a capturas cortas debido a su formato. Aunque no tienen la mejor fiabilidad, es una herramienta muy accesible.
 
-| Nombre del sensor | Descripción | Precio | Link |
-| ----------------- | ----------- | ------ | ---- |
-|                   |             |        |      |
-|                   |             |        |      |
-|                   |             |        |      |
-|                   |             |        |      |

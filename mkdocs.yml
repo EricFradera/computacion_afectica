@@ -32,11 +32,14 @@ nav:
   - Home: index.md
   - Bases de la computacion Afectiva: 
     - Computacion_afectiva/index.md
+    - Estado del arte: Computacion_afectiva/estado del arte.md
+    - Contexto: Computacion_afectiva\contexto.md
     - Computacion Cognitiva: Computacion_afectiva/Computacion cognitiva.md
     - Computacion Cooperativa: Computacion_afectiva/Computacion cooperativa.md
   - Teorias de las emociones:
     - Teoria de las emociones/index.md
     - Marcadores emocionales: Teoria de las emociones/Marcadores emocionales.md
+    - Model of affect: Teoria de las emociones\circumplex model of affect.md
     - Teoria ekman: Teoria de las emociones/Teoria de Ekman.md
     - Emociones primarias y secundarias: Teoria de las emociones/emociones primarias y secundarias.md
   - Monitoraje Passivo: 
@@ -60,17 +63,15 @@ nav:
     - Contenido adaptativo en base al estado emocional: Patrones de diseño emocional/Contenido adaptativo en base al estado emocional.md
     - Expresión de humor: Patrones de diseño emocional/Expresión de humor.md
     - Trigger Warning: Patrones de diseño emocional/Trigger Warning.md
-    # - Adaptación de asistente de voz: Patrones de diseño emocional/Adaptación de asistente de voz.md
     - Dialogo empático: Patrones de diseño emocional/Dialogo empático.md
     - Hub basado en emociones: Patrones de diseño emocional/Hub basado en emociones.md
   - Bases de datos multimodales:
     - bases de datos multimodales/index.md
+    - bases de datos multimodales/emotionML.md
   - Emotive Chat:
     - emoChat/index.md
     - Características de la app: emoChat/appOverview.md
     - Estructura de la aplicación: emoChat/appStructure.md
-  - Privacidad:
-    - privacidad/index.md
   - Ética:
     - etica/index.md
   - Recursos: 
